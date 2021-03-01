@@ -1,0 +1,4 @@
+﻿  mian.c
+g:\c++\vs\pro2\project2图形界面 工程\project2\mian.c(108): warning C4013: “DisplayClear”未定义；假设外部返回 int
+g:\c++\vs\pro2\project2图形界面 工程\project2\mian.c(231): warning C4013: “startTimer”未定义；假设外部返回 int
+  Demo.vcxproj -> G:\C++\VS\pro2\project2图形界面 工程\project2\Debug\project2.exe
